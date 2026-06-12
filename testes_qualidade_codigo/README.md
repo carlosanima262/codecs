@@ -10,8 +10,8 @@ Este diretório contém um exemplo didático e prático de como implementar **te
 testes_qualidade_codigo/
 ├── calculadora.py              # Módulo principal com funções matemáticas
 ├── test_calculadora.py         # Testes unitários
-├── relatorio_testes.py         # Gerador de relatório
-├── exemplo_uso.py              # Exemplos de uso
+├── relatorio_testes.py         # Gerador de relatórios
+├── exemplo_uso.py              # Exemplos práticos
 └── README.md                   # Este arquivo
 ```
 
@@ -50,7 +50,7 @@ python exemplo_uso.py
 ## 📈 Conceitos de Qualidade de Código Demonstrados
 
 | Conceito | Descrição | Arquivo |
-|----------|-----------|---------|
+|----------|-----------|----------|
 | **Docstrings** | Documentação clara em cada função | `calculadora.py` |
 | **Type Checking** | Validação de tipos de entrada | `calculadora.py` |
 | **Exception Handling** | Tratamento de erros apropriados | `calculadora.py` |
